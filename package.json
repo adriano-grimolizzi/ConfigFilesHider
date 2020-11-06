@@ -1,0 +1,19 @@
+{
+  "name": "config-files-hider",
+  "version": "1.0.0",
+  "description": "This is a sample project to handle sensitive config files in git",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriano-grimolizzi/ConfigFilesHider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adriano-grimolizzi/ConfigFilesHider/issues"
+  },
+  "homepage": "https://github.com/adriano-grimolizzi/ConfigFilesHider#readme"
+}
